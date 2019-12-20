@@ -1,0 +1,10 @@
+#wrap{
+width: 920px;
+margin:auto;
+background: #E6E6FA;
+padding: 10px 20px;
+font-size: large;}
+label, input[type=submit]{
+	display: block; margin: 10px;} 
+label {font-size: xx-large;}
+h1{color: #4B0082;}
